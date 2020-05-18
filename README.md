@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mahdiiranpoor/translation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mahdiiranpoor/translation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2 style="text-align: left;"><strong>Parsis Official Translation Center</strong></h2>
+<p style="text-align: left;">Considering the growing need of students, businessmen, international companies, business owners, university professors, and international cultural centers to translation services of rare and not-well-known languages and the lack of an all-encompassing center for the provision of these services in Iran, Parsis Official Translation Center started its activities in 2005 under the management and supervision of Mr. Abdul Zahra Ghobeyshavi.</p>
+<p style="text-align: left;">Parsis Official Translation Center currently provides high-quality and expert oral and written translation services for over 160 languages ​​and dialects.</p>
+&nbsp;
+<p style="text-align: left;">I suggest that you read this post <a href="https://parsistrans.com/what-is-official-translation/" target="_blank" rel="noopener noreferrer"><span style="color: #ff0000;"><strong>What is Official Translation</strong></span></a>
+<strong>Some of the covered languages are mentioned below:</strong><strong>
+</strong>English, Arabic, German, French, Italian, Istanbul Turkish, Azeri Turkish, Russian, Korean, Chinese, Armenian, Spanish, Japanese, Urdu, Pashto, Kurdish, Dutch, Swedish, Romanian, Hungarian, Thai, Hindi, Portuguese of Portugal, Portuguese of Brazil, Georgian, Malay, Polish, Asturian, Afrikaans, Ossetian, Albanian, Esperanto Uzbek, Estonian, Slovak, Indonesian, Ukrainian, Uyghur, Irish, Icelandic, Basque, Belarusian, Bulgarian, Balochi, Bengali Bosnian, Tatar, Tagalog , Turkmen, Javanese, Czech, Danish, Sanskrit, Swahili, Sicily, Sinhalese, Serbian, Finnish, Kyrgyz, Kazakh, Sorani Kurdish, Croatian, Lithuanian, Marathi, Mandarin, Wallonia, Welsh, Vietnamese, Greek</p>
